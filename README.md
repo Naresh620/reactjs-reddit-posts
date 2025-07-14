@@ -1,6 +1,6 @@
 # Reddit ReactJS Feed Viewer
 
-This React app fetches posts from the [r/reactjs](https://www.reddit.com/r/reactjs) subreddit and displays them in a responsive card layout. Each post includes its **Title**, **Description (SelfText)**, **Score**, and a **URL** to the post.
+This React app fetches posts from the [r/reactjs](https://reddit-reactjs-feed-c6c72-32f5d.web.app/) subreddit and displays them in a responsive card layout. Each post includes its **Title**, **Description (SelfText)**, **Score**, and a **URL** to the post.
 
 
 ## Features

@@ -12,8 +12,8 @@ const firebaseConfig = {
   projectId: "reddit-reactjs-feed-c6c72",
   storageBucket: "reddit-reactjs-feed-c6c72.firebasestorage.app",
   messagingSenderId: "952788838724",
-  appId: "1:952788838724:web:7805af233b27210e084f11",
-  measurementId: "G-GQNS8JWF39"
+  appId: "1:952788838724:web:fd61c5f38b50eeea084f11",
+  measurementId: "G-VWC3KYLKQQ"
 };
 
 // Initialize Firebase

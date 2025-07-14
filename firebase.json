@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "public",
+    "site": "reddit-reactjs-feed-c6c72-32f5d",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
